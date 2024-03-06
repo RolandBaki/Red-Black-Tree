@@ -1,0 +1,12 @@
+B83NPH          Green       Ford            2   2   15            2015
+BZ81DFV         Yellow      BMW             5   3   27            2012
+VL23FJV         Black       Mercedes-Benz  4    4  19            2020
+CJ61FYS         Red         Toyota          2   2   16            2014
+GL61LZG         Silver      Ford            5   3   29            2019
+TM08UZX         Blue        Skoda           3   4   28            2012
+CJ39YCG         White       Audi            4   5   21            2018
+VL85PYB         Black       BMW             2   6   17            2019
+SB65BVG         Green       Hyundai         5    4  23            2013
+IL21ZXP         Red         Ford            4   3   16            2020
+PH11GRZ         Silver      Volkswagen      3   3   24            2011
+BZ51MRF         Blue        Mercedes-Benz  2   4   27            2016
